@@ -15,3 +15,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+main{
+  @apply container mt-2
+}
+
+main h1{
+  text-align: center;
+}
